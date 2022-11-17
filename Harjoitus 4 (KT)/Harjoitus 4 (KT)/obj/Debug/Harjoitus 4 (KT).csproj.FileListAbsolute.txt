@@ -1,0 +1,8 @@
+C:\Users\3DW1Z4RD\source\repos\Harjoitus 4 (KT)\Harjoitus 4 (KT)\obj\Debug\Harjoitus 4 (KT).csproj.AssemblyReference.cache
+C:\Users\3DW1Z4RD\source\repos\Harjoitus 4 (KT)\Harjoitus 4 (KT)\obj\Debug\Harjoitus 4 (KT).csproj.SuggestedBindingRedirects.cache
+C:\Users\3DW1Z4RD\source\repos\Harjoitus 4 (KT)\Harjoitus 4 (KT)\obj\Debug\Harjoitus 4 (KT).csproj.CoreCompileInputs.cache
+C:\Users\3DW1Z4RD\source\repos\Harjoitus 4 (KT)\Harjoitus 4 (KT)\bin\Debug\Harjoitus 4 (KT).exe.config
+C:\Users\3DW1Z4RD\source\repos\Harjoitus 4 (KT)\Harjoitus 4 (KT)\bin\Debug\Harjoitus 4 (KT).exe
+C:\Users\3DW1Z4RD\source\repos\Harjoitus 4 (KT)\Harjoitus 4 (KT)\bin\Debug\Harjoitus 4 (KT).pdb
+C:\Users\3DW1Z4RD\source\repos\Harjoitus 4 (KT)\Harjoitus 4 (KT)\obj\Debug\Harjoitus 4 (KT).exe
+C:\Users\3DW1Z4RD\source\repos\Harjoitus 4 (KT)\Harjoitus 4 (KT)\obj\Debug\Harjoitus 4 (KT).pdb
