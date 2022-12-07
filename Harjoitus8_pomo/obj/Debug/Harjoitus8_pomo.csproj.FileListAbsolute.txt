@@ -1,0 +1,8 @@
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus8_pomo\bin\Debug\Harjoitus8_pomo.exe.config
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus8_pomo\bin\Debug\Harjoitus8_pomo.exe
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus8_pomo\bin\Debug\Harjoitus8_pomo.pdb
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus8_pomo\obj\Debug\Harjoitus8_pomo.csproj.AssemblyReference.cache
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus8_pomo\obj\Debug\Harjoitus8_pomo.csproj.SuggestedBindingRedirects.cache
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus8_pomo\obj\Debug\Harjoitus8_pomo.csproj.CoreCompileInputs.cache
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus8_pomo\obj\Debug\Harjoitus8_pomo.exe
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus8_pomo\obj\Debug\Harjoitus8_pomo.pdb
