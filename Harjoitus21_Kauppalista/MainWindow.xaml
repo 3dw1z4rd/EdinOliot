@@ -1,0 +1,25 @@
+﻿<Window x:Class="Harjoitus21_Kauppalista.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Harjoitus21_Kauppalista"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,0" StartPoint="0.5,1">
+                <GradientStop Color="#FF0055FF"/>
+                <GradientStop Color="#FAD02C" Offset="0.6"/>
+                <GradientStop Color="#FEFFFFFF" Offset="0.2"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Button x:Name="BTNValot" Content="Maksa tuotteet"  Margin="572,328,40,33"/>
+        <CheckBox x:Name="CheckBox1" Content="Voi" Margin="666,63,23,296"  />
+        <CheckBox x:Name="CheckBox2" Content="Leipä" Margin="94,53,589,286"  />
+        <CheckBox x:Name="CheckBox3" Content="Murot" Margin="297,63,350,263" />
+        <CheckBox x:Name="CheckBox4" Content="Mehu" Margin="523,76,134,263"/>
+        <CheckBox x:Name="CheckBox5" Content="Makkara" Margin="445,188,243,197"/>
+        <CheckBox x:Name="CheckBox6" Content="Maito" Margin="297,205,405,145" />
+    </Grid>
+</Window>

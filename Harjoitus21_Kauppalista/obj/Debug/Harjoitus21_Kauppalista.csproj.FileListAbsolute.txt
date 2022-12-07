@@ -1,0 +1,16 @@
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus21_Kauppalista\obj\Debug\Harjoitus21_Kauppalista.csproj.AssemblyReference.cache
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus21_Kauppalista\obj\Debug\Harjoitus21_Kauppalista.csproj.SuggestedBindingRedirects.cache
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus21_Kauppalista\obj\Debug\MainWindow.g.cs
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus21_Kauppalista\obj\Debug\App.g.cs
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus21_Kauppalista\obj\Debug\Harjoitus21_Kauppalista_MarkupCompile.cache
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus21_Kauppalista\obj\Debug\Harjoitus21_Kauppalista_MarkupCompile.lref
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus21_Kauppalista\bin\Debug\Harjoitus21_Kauppalista.exe.config
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus21_Kauppalista\bin\Debug\Harjoitus21_Kauppalista.exe
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus21_Kauppalista\bin\Debug\Harjoitus21_Kauppalista.pdb
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus21_Kauppalista\obj\Debug\MainWindow.baml
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus21_Kauppalista\obj\Debug\Harjoitus21_Kauppalista.g.resources
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus21_Kauppalista\obj\Debug\Harjoitus21_Kauppalista.Properties.Resources.resources
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus21_Kauppalista\obj\Debug\Harjoitus21_Kauppalista.csproj.GenerateResource.cache
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus21_Kauppalista\obj\Debug\Harjoitus21_Kauppalista.csproj.CoreCompileInputs.cache
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus21_Kauppalista\obj\Debug\Harjoitus21_Kauppalista.exe
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus21_Kauppalista\obj\Debug\Harjoitus21_Kauppalista.pdb
