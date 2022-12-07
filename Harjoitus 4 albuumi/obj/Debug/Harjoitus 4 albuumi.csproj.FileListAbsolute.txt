@@ -1,0 +1,8 @@
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus 4 albuumi\bin\Debug\Harjoitus 4 albuumi.exe.config
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus 4 albuumi\bin\Debug\Harjoitus 4 albuumi.exe
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus 4 albuumi\bin\Debug\Harjoitus 4 albuumi.pdb
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus 4 albuumi\obj\Debug\Harjoitus 4 albuumi.csproj.AssemblyReference.cache
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus 4 albuumi\obj\Debug\Harjoitus 4 albuumi.csproj.SuggestedBindingRedirects.cache
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus 4 albuumi\obj\Debug\Harjoitus 4 albuumi.csproj.CoreCompileInputs.cache
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus 4 albuumi\obj\Debug\Harjoitus 4 albuumi.exe
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus 4 albuumi\obj\Debug\Harjoitus 4 albuumi.pdb
