@@ -1,0 +1,8 @@
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus_12-Korttipakka\bin\Debug\Harjoitus_12-Korttipakka.exe.config
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus_12-Korttipakka\bin\Debug\Harjoitus_12-Korttipakka.exe
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus_12-Korttipakka\bin\Debug\Harjoitus_12-Korttipakka.pdb
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus_12-Korttipakka\obj\Debug\Harjoitus_12-Korttipakka.csproj.AssemblyReference.cache
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus_12-Korttipakka\obj\Debug\Harjoitus_12-Korttipakka.csproj.SuggestedBindingRedirects.cache
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus_12-Korttipakka\obj\Debug\Harjoitus_12-Korttipakka.csproj.CoreCompileInputs.cache
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus_12-Korttipakka\obj\Debug\Harjoitus_12-Korttipakka.exe
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus_12-Korttipakka\obj\Debug\Harjoitus_12-Korttipakka.pdb
