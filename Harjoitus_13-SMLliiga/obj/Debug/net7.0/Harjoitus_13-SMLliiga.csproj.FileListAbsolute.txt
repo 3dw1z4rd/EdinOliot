@@ -1,0 +1,15 @@
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus_13-SMLliiga\bin\Debug\net7.0\Harjoitus_13-SMLliiga.exe
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus_13-SMLliiga\bin\Debug\net7.0\Harjoitus_13-SMLliiga.deps.json
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus_13-SMLliiga\bin\Debug\net7.0\Harjoitus_13-SMLliiga.runtimeconfig.json
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus_13-SMLliiga\bin\Debug\net7.0\Harjoitus_13-SMLliiga.dll
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus_13-SMLliiga\bin\Debug\net7.0\Harjoitus_13-SMLliiga.pdb
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus_13-SMLliiga\obj\Debug\net7.0\Harjoitus_13-SMLliiga.csproj.AssemblyReference.cache
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus_13-SMLliiga\obj\Debug\net7.0\Harjoitus_13-SMLliiga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus_13-SMLliiga\obj\Debug\net7.0\Harjoitus_13-SMLliiga.AssemblyInfoInputs.cache
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus_13-SMLliiga\obj\Debug\net7.0\Harjoitus_13-SMLliiga.AssemblyInfo.cs
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus_13-SMLliiga\obj\Debug\net7.0\Harjoitus_13-SMLliiga.csproj.CoreCompileInputs.cache
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus_13-SMLliiga\obj\Debug\net7.0\Harjoitus_13-SMLliiga.dll
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus_13-SMLliiga\obj\Debug\net7.0\refint\Harjoitus_13-SMLliiga.dll
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus_13-SMLliiga\obj\Debug\net7.0\Harjoitus_13-SMLliiga.pdb
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus_13-SMLliiga\obj\Debug\net7.0\Harjoitus_13-SMLliiga.genruntimeconfig.cache
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus_13-SMLliiga\obj\Debug\net7.0\ref\Harjoitus_13-SMLliiga.dll
