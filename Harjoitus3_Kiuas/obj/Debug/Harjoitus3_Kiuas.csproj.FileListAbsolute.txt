@@ -1,0 +1,8 @@
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus3_Kiuas\bin\Debug\Harjoitus3_Kiuas.exe.config
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus3_Kiuas\bin\Debug\Harjoitus3_Kiuas.exe
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus3_Kiuas\bin\Debug\Harjoitus3_Kiuas.pdb
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus3_Kiuas\obj\Debug\Harjoitus3_Kiuas.csproj.AssemblyReference.cache
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus3_Kiuas\obj\Debug\Harjoitus3_Kiuas.csproj.SuggestedBindingRedirects.cache
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus3_Kiuas\obj\Debug\Harjoitus3_Kiuas.csproj.CoreCompileInputs.cache
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus3_Kiuas\obj\Debug\Harjoitus3_Kiuas.exe
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Harjoitus3_Kiuas\obj\Debug\Harjoitus3_Kiuas.pdb
