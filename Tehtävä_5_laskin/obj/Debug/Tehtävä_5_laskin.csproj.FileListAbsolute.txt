@@ -1,0 +1,8 @@
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Tehtävä_5_laskin\obj\Debug\Tehtävä_5_laskin.csproj.AssemblyReference.cache
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Tehtävä_5_laskin\obj\Debug\Tehtävä_5_laskin.csproj.SuggestedBindingRedirects.cache
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Tehtävä_5_laskin\obj\Debug\Tehtävä_5_laskin.csproj.CoreCompileInputs.cache
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Tehtävä_5_laskin\bin\Debug\Tehtävä_5_laskin.exe.config
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Tehtävä_5_laskin\bin\Debug\Tehtävä_5_laskin.exe
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Tehtävä_5_laskin\bin\Debug\Tehtävä_5_laskin.pdb
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Tehtävä_5_laskin\obj\Debug\Tehtävä_5_laskin.exe
+C:\Users\3DW1Z4RD\Desktop\EdinOliot\EdinOliot\Tehtävä_5_laskin\obj\Debug\Tehtävä_5_laskin.pdb
