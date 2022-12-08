@@ -58,7 +58,7 @@ namespace WpfApp1
                 {
                     file.WriteLine(tbOstokset.Text);
                 }
-                tbSuccess.Text = "Ostokset on maksettu, kiitos käynnistä ja tervetuloa uudelleen.";
+                tbOstokset.Text = "Ostokset on maksettu, kiitos käynnistä ja tervetuloa uudelleen.";
             }
 
             catch
